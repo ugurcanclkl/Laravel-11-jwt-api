@@ -13,6 +13,8 @@ after installations
 
 composer install
 
+create database/database.sqlite file before running ./dev.sh
+
 then only running the ./dev.sh script will suffice project will be up and running
 
 SomeScreen Shots of requests:
